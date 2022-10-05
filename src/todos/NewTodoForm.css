@@ -1,0 +1,21 @@
+.new-todo-form{
+  padding: 10px;
+}
+.new-todo-textinput{
+
+    width: 60%;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    padding-left: 2px;
+
+}
+.new-todo-btn{
+    width: fit-content;
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: #E1FFB1;
+    border-radius: 5px;
+}
